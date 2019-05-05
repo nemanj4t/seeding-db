@@ -6,5 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class StudentParent extends Model
 {
-    //
+    public $timestamps = false;
+    public $table = "student_parent";
 }

@@ -13,7 +13,10 @@ class StudentAddressSeeder extends Seeder
     {
         $students = App\Student::all();
         foreach ($students as $student) {
-            $student->student_addresses()->save(factory(App\StudentAddress::class)->make());
+            $address = factory(App\StudentAddress::class)->make();
+            $address->date_address_from = $student->date_first_rental;
+            $address->date_address_to = $student->date_left_university;
+            $student->student_addresses()->save($address);
         }
     }
 }

@@ -11,6 +11,6 @@ class RefRelationshipTypeSeeder extends Seeder
      */
     public function run()
     {
-        factory(App\RefRelationshipType::class, 2)->create();
+        factory(App\RefRelationshipType::class, 3)->create();
     }
 }

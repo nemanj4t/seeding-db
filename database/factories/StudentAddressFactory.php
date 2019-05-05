@@ -10,8 +10,8 @@ $factory->define(StudentAddress::class, function (Faker $faker) {
     return [
         'address_id' => Address::inRandomOrder()->first()->id,
         'address_type_code' => $faker->numberBetween(1, App\RefAddressType::all()->count()),
-        'date_address_from' => $faker->dateTime,
-        'date_address_to' => $faker->dateTime,
+        'date_address_from' => $before = $faker->dateTime,
+        'date_address_to' => $faker->dateTimeInInterval($before, '+4 years'),
         'monthly_rental' => $faker->numberBetween(100, 500)
     ];
 });

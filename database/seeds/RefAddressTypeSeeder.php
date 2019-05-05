@@ -11,6 +11,6 @@ class RefAddressTypeSeeder extends Seeder
      */
     public function run()
     {
-        factory(App\RefAddressType::class, 10)->create();
+        factory(App\RefAddressType::class, 5)->create();
     }
 }

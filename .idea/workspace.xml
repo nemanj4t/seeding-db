@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a7db2a8-a65d-4288-a4fc-cccf20ecda18" name="Default Changelist" comment="" />
+    <list default="true" id="7a7db2a8-a65d-4288-a4fc-cccf20ecda18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Parents.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Parents.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/StudentParent.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/StudentParent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/StudentAddressFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/StudentAddressFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/RefAddressTypeSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/RefAddressTypeSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/RefRelationshipTypeSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/RefRelationshipTypeSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/StudentAddressSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/StudentAddressSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/StudentParentSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/StudentParentSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/SubjectSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/SubjectSeeder.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,26 +33,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="env" value="1" />
-          <entry key="php" value="118" />
+          <entry key="php" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key=".env file" value="1" />
-          <entry key="PHP" value="118" />
+          <entry key="PHP" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
           <entry key="env" value="26" />
-          <entry key="php" value="5081" />
+          <entry key="php" value="6200" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key=".env file" value="26" />
-          <entry key="PHP" value="5081" />
+          <entry key="PHP" value="6200" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -50,97 +61,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Subject.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#23#62#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/StudentPaymentMethodFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#66#95#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/seeds/StudentSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/seeds/StudentAddressSeeder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/SubjectFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/database/seeds/SubjectSeeder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-              <folding>
-                <element signature="e#7#38#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Student.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-              <folding>
-                <element signature="e#23#62#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/StudentAddressFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="61" />
-              <folding>
-                <element signature="e#66#89#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/StudentSubjectFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -154,13 +78,97 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/SubjectSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="e#7#25#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/PropertyOwnerSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/ParentSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/seeds/StudentParentSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+              <folding>
+                <element signature="e#7#38#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/RefPaymentMethodSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/RefRelationshipTypeSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/RefAddressTypeSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/StudentAddressSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>p</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/database/migrations/2019_05_02_001310_create_ref_payment_methods_table.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2019_05_02_001329_create_ref_relation_ship_types_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_05_02_001329_create_ref_relationship_types_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_05_02_001353_create_ref_address_types_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_05_02_001418_create_property_owners_table.php" />
@@ -178,10 +186,8 @@
         <option value="$PROJECT_DIR$/database/factories/SubjectFactory.php" />
         <option value="$PROJECT_DIR$/database/factories/PropertyOwnerFactory.php" />
         <option value="$PROJECT_DIR$/app/RefAddressType.php" />
-        <option value="$PROJECT_DIR$/database/seeds/RefAddressTypeSeeder.php" />
         <option value="$PROJECT_DIR$/database/factories/RefAddressTypeFactory.php" />
         <option value="$PROJECT_DIR$/app/RefRelationshipType.php" />
-        <option value="$PROJECT_DIR$/database/seeds/RefRelationshipTypeSeeder.php" />
         <option value="$PROJECT_DIR$/database/factories/RefRelationshipTypeFactory.php" />
         <option value="$PROJECT_DIR$/app/RefPaymentMethod.php" />
         <option value="$PROJECT_DIR$/database/seeds/RefPaymentMethodSeeder.php" />
@@ -193,22 +199,26 @@
         <option value="$PROJECT_DIR$/app/PropertyOwner.php" />
         <option value="$PROJECT_DIR$/database/factories/AddressFactory.php" />
         <option value="$PROJECT_DIR$/app/StudentAddress.php" />
-        <option value="$PROJECT_DIR$/database/factories/StudentAddressFactory.php" />
         <option value="$PROJECT_DIR$/database/factories/ParentFactory.php" />
-        <option value="$PROJECT_DIR$/app/Parents.php" />
         <option value="$PROJECT_DIR$/database/seeds/ParentSeeder.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_05_02_175211_create_student_parent_table.php" />
         <option value="$PROJECT_DIR$/database/factories/StudentParentFactory.php" />
-        <option value="$PROJECT_DIR$/database/seeds/StudentParentSeeder.php" />
         <option value="$PROJECT_DIR$/database/factories/StudentSubjectRegistrationsFactory.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_05_02_175238_create_student_subject_table.php" />
         <option value="$PROJECT_DIR$/database/seeds/PropertyOwnerSeeder.php" />
-        <option value="$PROJECT_DIR$/app/StudentSubject.php" />
         <option value="$PROJECT_DIR$/database/factories/StudentSubjectFactory.php" />
-        <option value="$PROJECT_DIR$/app/Student.php" />
         <option value="$PROJECT_DIR$/app/Subject.php" />
-        <option value="$PROJECT_DIR$/database/seeds/StudentSeeder.php" />
+        <option value="$PROJECT_DIR$/app/StudentParent.php" />
+        <option value="$PROJECT_DIR$/app/Parent.php" />
+        <option value="$PROJECT_DIR$/app/StudentSubject.php" />
+        <option value="$PROJECT_DIR$/app/Student.php" />
+        <option value="$PROJECT_DIR$/app/Parents.php" />
+        <option value="$PROJECT_DIR$/database/seeds/RefAddressTypeSeeder.php" />
+        <option value="$PROJECT_DIR$/database/factories/StudentAddressFactory.php" />
         <option value="$PROJECT_DIR$/database/seeds/StudentAddressSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/StudentParentSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/StudentSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/RefRelationshipTypeSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/SubjectSeeder.php" />
       </list>
     </option>
@@ -307,12 +317,13 @@
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-13" />
     <option name="y" value="-12" />
     <option name="width" value="2298" />
     <option name="height" value="1103" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -361,7 +372,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="studentAddres&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentAddressFactory.php&#10;subjec&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/SubjectSeeder.php&#10;Subject.php&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/Subject.php&#10;Student.php&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/Student.php&#10;studentSubjectFa&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentSubjectFactory.php&#10;SubjectSeeder&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/SubjectSeeder.php&#10;SubjectFact&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/SubjectFactory.php&#10;StudentAddres&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentAddressFactory.php&#10;StudentAddress\&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentAddressSeeder.php&#10;studentPaymeMethoFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentPaymentMethodFactory.php&#10;payment&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001529_create_student_payment_methods_table.php&#10;student_sub&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_175238_create_student_subject_table.php&#10;student_paymet&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001529_create_student_payment_methods_table.php&#10;student_&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001213_create_students_table.php&#10;ref_&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001310_create_ref_payment_methods_table.php&#10;StudentSeeder&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentSeeder.php&#10;studentFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentFactory.php&#10;ParentSee&#9;null&#9;null&#10;ParentsSeeder&#9;null&#9;null&#10;Parents&#9;null&#9;null&#10;StudentFactory&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentFactory.php&#10;ParentFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/ParentFactory.php&#10;Student&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/Student.php&#10;Student\&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentSeeder.php&#10;StudentAddressSee&#9;null&#9;null&#10;addres&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001614_create_addresses_table.php&#10;createa&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001614_create_addresses_table.php&#10;Address&#9;null&#9;null&#10;Property&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/PropertyOwnerSeeder.php&#10;Proper&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/PropertyOwner.php&#10;create_addre&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001614_create_addresses_table.php&#10;Stu&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/StudentPaymentMethod.php&#10;StudentPayme&#9;null&#9;null&#10;RefPaymentSeede&#9;null&#9;null&#10;RefPayment&#9;null&#9;null&#10;RefRelationshipTypSee&#9;null&#9;null&#10;RefRela&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/RefRelationshipType.php&#10;RefAddre&#9;null&#9;null&#10;OwnerFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/PropertyOwnerFactory.php&#10;Subject&#9;null&#9;null&#10;Model&#9;null&#9;null&#10;App&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="StudentParent&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentParentSeeder.php&#10;Parent&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/ParentSeeder.php&#10;Subjec&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/SubjectSeeder.php&#10;Prop&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/PropertyOwnerSeeder.php&#10;Parents&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentParentSeeder.php&#10;Subject&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/SubjectSeeder.php&#10;StudentSubj&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentSubjectSeeder.php&#10;StudentAddres&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentAddressSeeder.php&#10;Studen&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentAddressFactory.php&#10;StudentFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentFactory.php&#10;RefAddre&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/RefAddressTypeSeeder.php&#10;AddressFa&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/AddressFactory.php&#10;Propert&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/PropertyOwnerSeeder.php&#10;PaymentMethodFactory&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentPaymentMethodFactory.php&#10;FactoryPaymentMethods&#9;null&#9;null&#10;StudentFactory&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentFactory.php&#10;StudentSeeder&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentSeeder.php&#10;refre&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/RefRelationshipTypeFactory.php&#10;SubjectSeeder&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/SubjectSeeder.php&#10;Pare&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/ParentFactory.php&#10;ParentFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/ParentFactory.php&#10;Parent.php&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/Parents.php&#10;Student&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/Student.php&#10;student&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/StudentParent.php&#10;StudentParentSeeder&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentParentSeeder.php&#10;studentAddres&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentAddressFactory.php&#10;subjec&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/SubjectSeeder.php&#10;Subject.php&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/Subject.php&#10;Student.php&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/Student.php&#10;studentSubjectFa&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentSubjectFactory.php&#10;SubjectFact&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/SubjectFactory.php&#10;StudentAddress\&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentAddressSeeder.php&#10;studentPaymeMethoFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentPaymentMethodFactory.php&#10;payment&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001529_create_student_payment_methods_table.php&#10;student_sub&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_175238_create_student_subject_table.php&#10;student_paymet&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001529_create_student_payment_methods_table.php&#10;student_&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001213_create_students_table.php&#10;ref_&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001310_create_ref_payment_methods_table.php&#10;studentFac&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/factories/StudentFactory.php&#10;ParentSee&#9;null&#9;null&#10;ParentsSeeder&#9;null&#9;null&#10;Student\&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/StudentSeeder.php&#10;StudentAddressSee&#9;null&#9;null&#10;addres&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001614_create_addresses_table.php&#10;createa&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001614_create_addresses_table.php&#10;Address&#9;null&#9;null&#10;Property&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/seeds/PropertyOwnerSeeder.php&#10;Proper&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/PropertyOwner.php&#10;create_addre&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/database/migrations/2019_05_02_001614_create_addresses_table.php&#10;Stu&#9;FILE&#9;file://D:/xampp/htdocs/student_registration/app/StudentPaymentMethod.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -390,47 +401,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556755886437</updated>
-      <workItem from="1556755887966" duration="44561000" />
+      <workItem from="1556755887966" duration="54286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44561000" />
+    <option name="totallyTimeSpent" value="54286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1486" height="878" extended-state="6" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23211782" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.42550334" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="npm" order="0" side_tool="true" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.3345021" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32952183" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.42550334" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Run" order="7" />
@@ -442,7 +431,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -451,13 +440,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_02_001707_create_parents_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_02_001928_create_student_subject_registrations_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -489,23 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#7#20#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/RefAddressType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -513,24 +478,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/RefAddressTypeSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/RefPaymentMethod.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/RefPaymentMethodSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -606,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/RefRelationshipTypeSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/PropertyOwnerFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -627,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/AddressFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/RefRelationshipType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -641,68 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Parents.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/ParentFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#66#82#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/RefRelationshipTypeFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/ParentSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/StudentParentFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#66#88#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/StudentParentSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#7#38#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_02_175211_create_student_parent_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/StudentFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="16" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -734,20 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/PropertyOwnerSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/StudentSubject.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_02_175238_create_student_subject_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -762,22 +627,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Student.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-          <folding>
-            <element signature="e#23#62#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Subject.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="e#23#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/StudentSubject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Parents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/RefRelationshipTypeFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#23#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/StudentParent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ParentFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#66#82#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/StudentParentFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#66#88#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -792,6 +705,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/AddressFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/StudentFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/StudentAddressFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="58" lean-forward="true" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+          <folding>
+            <element signature="e#66#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#7#20#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/SubjectFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -799,17 +746,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/StudentSeeder.php">
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-end-line="1" />
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/StudentAddressSeeder.php">
+    <entry file="file://$PROJECT_DIR$/database/seeds/StudentSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -820,20 +767,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/StudentAddressFactory.php">
+    <entry file="file://$PROJECT_DIR$/database/seeds/RefPaymentMethodSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="61" />
-          <folding>
-            <element signature="e#66#89#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/RefRelationshipTypeSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/RefAddressTypeSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/StudentAddressSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/PropertyOwnerSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/seeds/SubjectSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="71">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#7#25#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/ParentSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/StudentParentSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding>
             <element signature="e#7#38#0#PHP" expanded="true" />
           </folding>

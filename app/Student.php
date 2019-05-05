@@ -29,4 +29,8 @@ class Student extends Model
         return $this->belongsToMany(StudentSubject::class, 'student_subject','student_id', 'subject_id');
     }
 
+    public function parents()
+    {
+        return $this->belongsToMany(StudentParent::class, 'student_parent','student_id', 'parent_id');
+    }
 }
